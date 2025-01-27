@@ -1,25 +1,22 @@
-# Node.js CRUD Operations API
+# JavaScript CRUD Operations
 
-This project is a simple CRUD (Create, Read, Update, Delete) API built using **Node.js**, **Express**, and **MongoDB**. It demonstrates how to perform basic database operations in a RESTful manner.
+This project demonstrates basic **CRUD (Create, Read, Update, Delete)** operations using plain **JavaScript**. The application manipulates data and showcases how CRUD functionality works in a simple environment.
 
 ---
 
 ## Features
 
-- Create new records
-- Retrieve all records or a specific record by ID
-- Update existing records by ID
-- Delete records by ID
-- Error handling for invalid requests and missing data
+- Create new records (e.g., users or items)
+- Read and display all records or a specific record
+- Update existing records
+- Delete records
+- Works with in-memory data (no backend or database)
 
 ---
 
 ## Prerequisites
 
-Before running the project, make sure you have the following installed on your system:
-
-- **Node.js** (v16 or later)
-- **MongoDB** (local or cloud instance)
+To run this project, you only need a modern web browser. No additional installations are required.
 
 ---
 
@@ -27,4 +24,4 @@ Before running the project, make sure you have the following installed on your s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nodejs-crud-api.git
+   git clone https://github.com/yourusername/javascript-crud-operations.git
